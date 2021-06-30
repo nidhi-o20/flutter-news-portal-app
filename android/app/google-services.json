@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "209644649971",
+    "firebase_url": "https://news-portal-app-4b216.firebaseio.com",
+    "project_id": "news-portal-app-4b216",
+    "storage_bucket": "news-portal-app-4b216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209644649971:android:d38ca3b388f47085172686",
+        "android_client_info": {
+          "package_name": "com.example.newsportal_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209644649971-5ffod2qe0g1p2u1k1lu6971d1ajs58bi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newsportal_app",
+            "certificate_hash": "f1d0831cf3eaf2a33ed3732ce9c25e51cfcfa9fc"
+          }
+        },
+        {
+          "client_id": "209644649971-ippru7l1srm0mgb1a1dl8l9ias012gem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd10MYi6aequN4C06HENcFHlwKeMFJotM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209644649971-ippru7l1srm0mgb1a1dl8l9ias012gem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
